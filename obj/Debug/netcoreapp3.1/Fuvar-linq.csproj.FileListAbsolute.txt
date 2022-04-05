@@ -1,0 +1,14 @@
+E:\csharp-m115\Ablakos\Fuvar-linq\bin\Debug\netcoreapp3.1\Fuvar-linq.exe
+E:\csharp-m115\Ablakos\Fuvar-linq\bin\Debug\netcoreapp3.1\Fuvar-linq.deps.json
+E:\csharp-m115\Ablakos\Fuvar-linq\bin\Debug\netcoreapp3.1\Fuvar-linq.runtimeconfig.json
+E:\csharp-m115\Ablakos\Fuvar-linq\bin\Debug\netcoreapp3.1\Fuvar-linq.runtimeconfig.dev.json
+E:\csharp-m115\Ablakos\Fuvar-linq\bin\Debug\netcoreapp3.1\Fuvar-linq.dll
+E:\csharp-m115\Ablakos\Fuvar-linq\bin\Debug\netcoreapp3.1\Fuvar-linq.pdb
+E:\csharp-m115\Ablakos\Fuvar-linq\obj\Debug\netcoreapp3.1\Fuvar-linq.csproj.AssemblyReference.cache
+E:\csharp-m115\Ablakos\Fuvar-linq\obj\Debug\netcoreapp3.1\Fuvar-linq.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp-m115\Ablakos\Fuvar-linq\obj\Debug\netcoreapp3.1\Fuvar-linq.AssemblyInfoInputs.cache
+E:\csharp-m115\Ablakos\Fuvar-linq\obj\Debug\netcoreapp3.1\Fuvar-linq.AssemblyInfo.cs
+E:\csharp-m115\Ablakos\Fuvar-linq\obj\Debug\netcoreapp3.1\Fuvar-linq.csproj.CoreCompileInputs.cache
+E:\csharp-m115\Ablakos\Fuvar-linq\obj\Debug\netcoreapp3.1\Fuvar-linq.dll
+E:\csharp-m115\Ablakos\Fuvar-linq\obj\Debug\netcoreapp3.1\Fuvar-linq.pdb
+E:\csharp-m115\Ablakos\Fuvar-linq\obj\Debug\netcoreapp3.1\Fuvar-linq.genruntimeconfig.cache
